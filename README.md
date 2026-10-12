@@ -1,4 +1,4 @@
-# Portfolio-
+# Portfolio
 
 Portfólio de Luana Vitoriano, desenvolvedora web em formação.
 
